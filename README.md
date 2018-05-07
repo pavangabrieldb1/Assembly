@@ -1,5 +1,6 @@
 # Assembly
-<p>Para compilar para arquitetura 64 bits, use: </p>
-<b>nasm -f elf64 hello.asm</b>
-<p>Para compilar para arquitetura 32 bits, use: </p>
-<b>nasm -f elf32 hello.asm</b>
+<p>Para compilar, use: </p>
+<b>arquitetura de 64 bits</b>
+<p>nasm -f elf64 hello.asm</p>
+<b>arquitetura de 32 bits</b>
+<p>nasm -f elf32 hello.asm</p>
